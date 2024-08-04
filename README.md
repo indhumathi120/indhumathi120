@@ -1,12 +1,10 @@
 <h1 align="center">Hey 👋, This is Indhumathi</h1>
-<h3 align="center">Student at Sri Eshwar College of Engineering,Coimbatore✨.</h3>
+<h3 align="center">Software Engineer | Tech enthusiastic✨.</h3>
 
 <br>
 
 
 <br>
-
-- 🌱 I’m currently working @Odessa as an Intern, Domain:C# and .NET
 
 - 📫 How to reach me *indhuma1220@gmail.com*
 
